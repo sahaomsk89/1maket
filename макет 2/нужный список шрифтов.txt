@@ -1,0 +1,23 @@
+Raleway
+
+Regular (400) normal
+
+ExtraBold (800) normal
+
+Medium (500) normal
+
+SemiBold (600) normal
+
+Bold (700) normal
+
+Roboto
+
+Regular (400) normal
+
+Montserrat
+
+Light (300) normal
+
+UltraLight (200) normal
+
+Regular (400) normal
